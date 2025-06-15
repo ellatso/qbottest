@@ -1,0 +1,12 @@
+股票,交叉時間,接近交叉,RSI,MACD > Signal,收盤 < 下軌
+AAPL,,,44.83,True,True
+TSLA,,,47.2,True,True
+MSFT,,,42.22,True,True
+NVDA,,,41.13,True,True
+AMZN,,,38.7,True,True
+GOOGL,,,43.28,True,True
+AMD,,,40.16,True,True
+INTC,,,32.72,True,True
+SHOP,,,42.0,True,True
+SMCI,,,39.61,True,True
+META,,,35.7,True,True
